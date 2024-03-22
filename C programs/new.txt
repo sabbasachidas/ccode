@@ -1,0 +1,3 @@
+new string pushed to this file from terminal yah...
+with added text to check 
+weather programs works ro not.
